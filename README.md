@@ -1,0 +1,2 @@
+# informasjonssikkerhet-datasikkerhet
+obliger om informasjonssikkerhet/datasikkerhet
